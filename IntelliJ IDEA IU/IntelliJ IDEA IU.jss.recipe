@@ -5,7 +5,7 @@
   <key>Description</key>
   <string>Downloads the current release version of Intellij IDEA and imports into a JAMF Pro Server.</string>
   <key>Identifier</key>
-  <string>com.github.jss-recipes.jss.IDEA-IU</string>
+  <string>com.github.jss-recipes.jss.IntelliJIDEAIU</string>
   <key>Input</key>
   <dict>
     <key>CATEGORY</key>
@@ -15,7 +15,7 @@
     <key>GROUP_TEMPLATE</key>
     <string>SmartGroupTemplate.xml</string>
     <key>NAME</key>
-    <string>IDEA-IU</string>
+    <string>IntelliJ IDEA IU</string>
     <key>POLICY_CATEGORY</key>
     <string>Testing</string>
     <key>POLICY_TEMPLATE</key>
@@ -30,7 +30,7 @@
   <key>ParentRecipe</key>
   <string>com.github.mosen.download.IDEA-IU</string>
   <key>ParentRecipe</key>
-  <string>com.github.skoobasteeve.pkg.IntelliJ-IDEA-IU</string>
+  <string>com.github.skoobasteeve.pkg.IntelliJIDEAIU</string>
   <key>Process</key>
   <array>
     <dict>

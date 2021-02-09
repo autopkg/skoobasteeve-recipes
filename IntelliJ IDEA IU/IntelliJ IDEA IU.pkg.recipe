@@ -5,7 +5,7 @@
 		<key>Description</key>
 		<string>Downloads the current release version of IDEA Ultimate and creates a package.</string>
 		<key>Identifier</key>
-		<string>com.github.skoobasteeve.pkg.IDEA-IU</string>
+		<string>com.github.skoobasteeve.pkg.IntelliJIDEAIU</string>
 		<key>Input</key>
 		<dict>
 			<key>NAME</key>
