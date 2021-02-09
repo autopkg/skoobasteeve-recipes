@@ -21,16 +21,16 @@
     <key>POLICY_TEMPLATE</key>
     <string>PolicyTemplate.xml</string>
     <key>SELF_SERVICE_DESCRIPTION</key>
-    <string></string>
+    <string>A capable and ergonomic Java IDE by JetBrains. Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable.</string>
     <key>SELF_SERVICE_ICON</key>
-    <string>IDEA-IU.png</string>
+    <string>IntelliJ IDEA IU.png</string>
   </dict>
   <key>MinimumVersion</key>
   <string>0.4.0</string>
   <key>ParentRecipe</key>
   <string>com.github.mosen.download.IDEA-IU</string>
   <key>ParentRecipe</key>
-  <string>com.github.skoobasteeve.pkg.IDEA-IU</string>
+  <string>com.github.skoobasteeve.pkg.IntelliJ-IDEA-IU</string>
   <key>Process</key>
   <array>
     <dict>
